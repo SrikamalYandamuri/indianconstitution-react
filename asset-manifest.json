@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SrikamalYandamuri/indianconstitution-react/static/css/main.222f143f.css",
+    "main.js": "/SrikamalYandamuri/indianconstitution-react/static/js/main.fe837c1d.js",
+    "static/js/453.8ab44547.chunk.js": "/SrikamalYandamuri/indianconstitution-react/static/js/453.8ab44547.chunk.js",
+    "static/media/background.jpg": "/SrikamalYandamuri/indianconstitution-react/static/media/background.374aa5e308238a83426b.jpg",
+    "index.html": "/SrikamalYandamuri/indianconstitution-react/index.html",
+    "main.222f143f.css.map": "/SrikamalYandamuri/indianconstitution-react/static/css/main.222f143f.css.map",
+    "main.fe837c1d.js.map": "/SrikamalYandamuri/indianconstitution-react/static/js/main.fe837c1d.js.map",
+    "453.8ab44547.chunk.js.map": "/SrikamalYandamuri/indianconstitution-react/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222f143f.css",
+    "static/js/main.fe837c1d.js"
+  ]
+}
